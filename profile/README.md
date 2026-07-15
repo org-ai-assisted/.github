@@ -65,3 +65,5 @@ Longer writeup: https://org-ai-assisted.github.io
 
 - [output lies](https://github.com/output-lies), a sibling AI-assisted project:
   safe text-rendering tools and demos ([output-lies.github.io](https://output-lies.github.io)).
+- [secure-terminal](https://github.com/secure-terminal), a sibling AI-assisted project:
+  a terminal where paste is safe by construction ([secure-terminal.github.io](https://secure-terminal.github.io)).
