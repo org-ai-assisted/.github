@@ -9,7 +9,7 @@ This org hosts code, not discussion. Do not open issues or discussions here.
 
 ## Is Kicksecure / Whonix "vibecoded" now?
 
-No. This is the durable answer to [that recurring question](https://forums.whonix.org/t/is-whonix-vibecoded-now/23405).
+No. This is the answer to [that question](https://forums.whonix.org/t/is-whonix-vibecoded-now/23405).
 Here is how AI assistance is actually handled.
 
 **AI has no write access to any Kicksecure or Whonix repository.** Code that
@@ -52,3 +52,8 @@ Longer writeup: https://org-ai-assisted.github.io
 - Whonix AI policy: https://www.whonix.org/wiki/Policy_On_Artificial_Intelligence
 - Whonix AI policy discussion: https://forums.whonix.org/t/is-whonix-vibecoded-now/23405
 - Build documentation: https://www.kicksecure.com/wiki/Dev/Build_Documentation
+
+## Source
+
+- This profile: https://github.com/org-ai-assisted/.github
+- Landing page: https://github.com/org-ai-assisted/org-ai-assisted.github.io
