@@ -1,7 +1,8 @@
 # org-ai-assisted
 
-Machine account operated by [@adrelanos](https://github.com/adrelanos).
-Repositories here are maintained with AI assistance, and all AI-generated
+A bot and machine organisation operated by
+[@adrelanos](https://github.com/adrelanos). Repositories here are maintained
+with AI assistance, and all AI-generated
 content is marked as such.
 
 This org hosts code, not discussion. Do not open issues or discussions here.
