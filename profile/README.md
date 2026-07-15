@@ -1,5 +1,8 @@
 # org-ai-assisted
 
+> **Unreviewed draft, work in progress.** This profile is AI-generated and
+> pending human review.
+
 A bot and machine organisation operated by
 [@adrelanos](https://github.com/adrelanos). Repositories here are maintained
 with AI assistance, and all AI-generated
@@ -33,8 +36,8 @@ Longer writeup: https://org-ai-assisted.github.io
 
 - **Mirrors** of Kicksecure and Whonix components. The canonical source and
   issue tracker for these live upstream, under
-  [Kicksecure](https://github.com/Kicksecure) and
-  [Whonix](https://github.com/Whonix). Go there.
+  [@Kicksecure](https://github.com/Kicksecure) and
+  [@Whonix](https://github.com/Whonix). Go there.
 - **Origin repositories** native to this org, with no upstream mirror:
   - [`dist-ai`](https://github.com/org-ai-assisted/dist-ai) -- the AI test,
     reproduction, and fuzzing tooling.
@@ -57,3 +60,8 @@ Longer writeup: https://org-ai-assisted.github.io
 
 - This profile: https://github.com/org-ai-assisted/.github
 - Landing page: https://github.com/org-ai-assisted/org-ai-assisted.github.io
+
+## Related
+
+- [output lies](https://github.com/output-lies), a sibling AI-assisted project:
+  safe text-rendering tools and demos ([output-lies.github.io](https://output-lies.github.io)).
